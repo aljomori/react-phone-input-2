@@ -5,6 +5,7 @@ import find from 'lodash/find';
 import reduce from 'lodash/reduce';
 import map from 'lodash/map';
 import filter from 'lodash/filter';
+import tail from 'lodash/tail';
 import includes from 'lodash/includes';
 import findIndex from 'lodash/findIndex';
 import head from 'lodash/head';
